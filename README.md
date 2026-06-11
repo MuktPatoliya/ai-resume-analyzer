@@ -1,4 +1,4 @@
-# ai-resume-analyzer# AI Resume Analyzer
+# AI Resume Analyzer
 
 An AI-powered tool that analyzes resumes, scores them against job descriptions,
 and gives improvement suggestions.
